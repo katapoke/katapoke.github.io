@@ -76,7 +76,7 @@ a {
 }
 
 header {
-  height: 130px;
+  height: 125px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
   position :fixed;
@@ -99,7 +99,7 @@ header {
 }
 
 .header-right a {
-  line-height: 100px;
+  line-height: 110px;
   padding: 0 25px;
   color: white;
   display: block;
