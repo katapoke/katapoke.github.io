@@ -85,7 +85,7 @@ header {
 }
 
 .logo {
-  width: 80px;
+  width: 90px;
   height:85px;
 }
 
@@ -99,7 +99,7 @@ header {
 }
 
 .header-right a {
-  line-height: 75px;
+  line-height: 80px;
   padding: 0 25px;
   color: white;
   display: block;
